@@ -112,3 +112,14 @@ elif op == "Projetos" :
          st.caption ("Tecnologias utilizadas: Python (Pandas, NumPy, Scikit-learn, Streamlit)")
 
          st.caption("Esse projeto me proporcionou uma compreensão prática de machine learning, desde o pré-processamento dos dados até a avaliação do modelo, além de aprimorar minhas habilidades em Python e análise de dados.")   
+
+if op == "Contato" :
+   st.header ("📞​ Vamos nos conectar!")
+   st.markdown ("""
+   Estou sempre aberto a novas conexões e oportunidades de colaboração. Sinta-se à vontade para entrar em contato comigo através das seguintes plataformas:
+
+   - **LinkedIn**: [Bruno Raphael](https://www.linkedin.com/in/bruno-raphael-andrade-48816b334/)
+   - **GitHub**: [brunoandrade-dev](https://github.com/BrunoAndrade-dev) 
+   - **Email**: brunorafha4@gmail.com
+   """)
+   st.markdown("Estou ansioso para ouvir de você e explorar como podemos trabalhar juntos!")
